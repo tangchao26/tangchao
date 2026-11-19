@@ -1,0 +1,88 @@
+term	genes	logFC
+NF-kappa B signaling pathway	CARD14	1.24146367296191
+NF-kappa B signaling pathway	LYN	0.908725638755549
+NF-kappa B signaling pathway	BIRC3	0.860510127361531
+NF-kappa B signaling pathway	CD14	0.749820166952927
+NF-kappa B signaling pathway	VCAM1	0.726312355423964
+NF-kappa B signaling pathway	TNFRSF1A	0.71574564183592
+NF-kappa B signaling pathway	CFLAR	0.673547341710305
+NF-kappa B signaling pathway	GADD45A	0.659912346517067
+NF-kappa B signaling pathway	LTBR	0.648495669699832
+NF-kappa B signaling pathway	NFKB2	0.647077455700215
+NF-kappa B signaling pathway	TRADD	0.593284280275113
+NF-kappa B signaling pathway	TRIM25	0.546911048699668
+NF-kappa B signaling pathway	TLR4	0.53180474684456
+NF-kappa B signaling pathway	PLAU	0.501633026121107
+NF-kappa B signaling pathway	ICAM1	0.497857453773265
+NF-kappa B signaling pathway	IL1R1	0.440565979121827
+NF-kappa B signaling pathway	GADD45G	0.428203037624991
+NF-kappa B signaling pathway	BCL2A1	0.401285268129744
+NF-kappa B signaling pathway	BCL10	0.387762857440074
+NF-kappa B signaling pathway	CXCL12	0.371573328026981
+NF-kappa B signaling pathway	BCL2	0.367589443698308
+NF-kappa B signaling pathway	BLNK	0.362830794721576
+NF-kappa B signaling pathway	PRKCQ	0.348674143671728
+NF-kappa B signaling pathway	LBP	0.344884893490964
+NF-kappa B signaling pathway	IRAK4	0.339795196968979
+NF-kappa B signaling pathway	EDARADD	0.329930937440798
+NF-kappa B signaling pathway	RELB	0.323240752142574
+NF-kappa B signaling pathway	MYD88	0.32183161577547
+NF-kappa B signaling pathway	PLCG2	0.313260678586788
+NF-kappa B signaling pathway	CXCL1	0.292905081068807
+NF-kappa B signaling pathway	GADD45B	0.284003423568038
+NF-kappa B signaling pathway	TRAF1	0.283838207430739
+NF-kappa B signaling pathway	CARD10	0.266341242956347
+NF-kappa B signaling pathway	SYK	0.256546612638421
+NF-kappa B signaling pathway	RELA	0.255294528671457
+NF-kappa B signaling pathway	CCL4	0.229795037928853
+NF-kappa B signaling pathway	EDAR	0.224051350758416
+NF-kappa B signaling pathway	CD40	0.211898960966751
+NF-kappa B signaling pathway	TNFRSF11A	0.209354157719104
+NF-kappa B signaling pathway	EDA2R	0.205860239862417
+NF-kappa B signaling pathway	TRAF5	0.194696288023085
+NF-kappa B signaling pathway	NFKB1	0.183617609471658
+NF-kappa B signaling pathway	PLCG1	0.172569644033169
+NF-kappa B signaling pathway	NFKBIA	0.160618341932352
+NF-kappa B signaling pathway	CXCL2	0.160054773591979
+NF-kappa B signaling pathway	ZAP70	0.157794588138005
+NF-kappa B signaling pathway	IRAK1	0.148824850914745
+NF-kappa B signaling pathway	LTB	0.137320000209077
+NF-kappa B signaling pathway	CCL21	0.135420936770847
+Cytosolic DNA-sensing pathway	DNASE2B	1.42665934778046
+Cytosolic DNA-sensing pathway	IL18	1.21036329409268
+Cytosolic DNA-sensing pathway	IRF7	1.15655376314628
+Cytosolic DNA-sensing pathway	ZBP1	0.9477291383644
+Cytosolic DNA-sensing pathway	POLR2H	0.910595890670243
+Cytosolic DNA-sensing pathway	PYCARD	0.885476717152414
+Cytosolic DNA-sensing pathway	CASP8	0.840860511895352
+Cytosolic DNA-sensing pathway	IKBKE	0.732895204321702
+Cytosolic DNA-sensing pathway	CASP1	0.659425541885864
+Cytosolic DNA-sensing pathway	MLKL	0.552398614264811
+Cytosolic DNA-sensing pathway	CASP7	0.547099270593999
+Cytosolic DNA-sensing pathway	STING1	0.493812074340008
+Cytosolic DNA-sensing pathway	DNASE2	0.456218054888553
+Cytosolic DNA-sensing pathway	RIPK3	0.450906719525344
+Cytosolic DNA-sensing pathway	SAMHD1	0.422330829162175
+PPAR signaling pathway	FABP5	2.50108351454549
+PPAR signaling pathway	FABP4	1.54125137818848
+PPAR signaling pathway	FABP7	1.15584930536156
+PPAR signaling pathway	ADIPOQ	1.00960013164923
+PPAR signaling pathway	DBI	0.95125996623167
+PPAR signaling pathway	FABP3	0.839800436237034
+PPAR signaling pathway	ACADL	0.758956492458287
+PPAR signaling pathway	ACSL5	0.734218421105171
+PPAR signaling pathway	ACSBG1	0.700578283545743
+PPAR signaling pathway	PLIN1	0.592554154826299
+PPAR signaling pathway	PLIN4	0.564950732261187
+PPAR signaling pathway	CPT2	0.528772765216822
+PPAR signaling pathway	SCD	0.506924967526102
+PPAR signaling pathway	PCK1	0.506162612568805
+PPAR signaling pathway	RGD1565355	0.501434209358854
+PPAR signaling pathway	CYP27A1	0.471176570475453
+PPAR signaling pathway	LPL	0.434144112060898
+PPAR signaling pathway	PLIN2	0.401354003118763
+PPAR signaling pathway	PLIN5	0.368550976351332
+PPAR signaling pathway	PPARG	0.335040738030239
+PPAR signaling pathway	SLC27A2	0.304027881236286
+PPAR signaling pathway	SORBS1	0.295530647478496
+PPAR signaling pathway	ANGPTL4	0.28490494922748

@@ -1,0 +1,2 @@
+ID	Description	Test	TestAll	Ref	RefAll	Pvalue	FDR	richFactor	Gene_id	KEGG_id	URL
+rno04657	IL-17 signaling pathway 	1	1	86	7344	0.011710239651416	0.011710239651416	0.0116279069767442	ENSRNOG00000011483(S100a9)	rno:94195	http://www.kegg.jp/kegg-bin/show_pathway?rno04657+rno:94195

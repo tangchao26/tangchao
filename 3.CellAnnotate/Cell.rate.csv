@@ -1,0 +1,6 @@
+"","Cluster","Sample.x","Tumor_Number","Sample.y","Control_Number","rate"
+"1","Astrocytes","Disease",111,"Control",42,1.64285714285714
+"2","Horizontal cells","Disease",373,"Control",35,9.65714285714286
+"3","Müller glia","Disease",12614,"Control",1861,5.77807630306287
+"4","Rod photoreceptors","Disease",5925,"Control",7037,-0.158021884325707
+"5","T cells","Disease",994,"Control",286,2.47552447552448

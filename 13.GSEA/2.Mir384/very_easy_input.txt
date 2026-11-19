@@ -1,0 +1,158 @@
+term	genes	logFC
+Hippo signaling pathway	AXIN2	-0.0899215196219427
+Hippo signaling pathway	BIRC5	-0.0913561435734354
+Hippo signaling pathway	CCN2	-0.093281642679707
+Hippo signaling pathway	LEF1	-0.101573880949229
+Hippo signaling pathway	BMP6	-0.105985384731512
+Hippo signaling pathway	FZD7	-0.106764738033968
+Hippo signaling pathway	WNT10A	-0.110507451061115
+Hippo signaling pathway	AREG	-0.117835821478036
+Hippo signaling pathway	LIMD1	-0.125572173099628
+Hippo signaling pathway	FGF1	-0.134180221211988
+Hippo signaling pathway	GLI2	-0.137277603981852
+Hippo signaling pathway	CCND1	-0.14029604366975
+Hippo signaling pathway	PPP2R1B	-0.140478240970241
+Hippo signaling pathway	ID1	-0.146301963419264
+Hippo signaling pathway	PARD3	-0.146983426486614
+Hippo signaling pathway	FRMD6	-0.149396189065926
+Hippo signaling pathway	WNT9A	-0.166436967284318
+Hippo signaling pathway	WNT2	-0.170660809429568
+Hippo signaling pathway	BMPR1B	-0.175251160200444
+Hippo signaling pathway	PPP2CA	-0.184519307117805
+Hippo signaling pathway	TEAD1	-0.185468175636351
+Hippo signaling pathway	CDH1	-0.199028148667801
+Hippo signaling pathway	CTNNA1	-0.206449018470179
+Hippo signaling pathway	CCND3	-0.213927794716539
+Hippo signaling pathway	WNT4	-0.217416168184115
+Hippo signaling pathway	TCF7L1	-0.229975384626337
+Hippo signaling pathway	TEAD2	-0.245610016067922
+Hippo signaling pathway	SERPINE1	-0.247557486344925
+Hippo signaling pathway	CCND2	-0.252746957869967
+Hippo signaling pathway	WNT5B	-0.255477086913358
+Hippo signaling pathway	BMP4	-0.261241581184549
+Hippo signaling pathway	NKD1	-0.283144758994467
+Hippo signaling pathway	TGFB1	-0.314737639478484
+Hippo signaling pathway	BMP2	-0.320458759374279
+Hippo signaling pathway	YAP1	-0.328117725506186
+Hippo signaling pathway	TGFB2	-0.334587358590499
+Hippo signaling pathway	SOX2	-0.347284844680063
+Hippo signaling pathway	ACTB	-0.363329938927599
+Hippo signaling pathway	ACTG1	-0.366289392372007
+Hippo signaling pathway	BIRC3	-0.373363205936075
+Hippo signaling pathway	CTNNA2	-0.374406555764063
+Hippo signaling pathway	LOC100361457	-0.409153693143265
+Hippo signaling pathway	NKD2	-0.441453755547893
+Hippo signaling pathway	WWTR1	-0.444618139349817
+Hippo signaling pathway	ID2	-0.45556086231136
+Hippo signaling pathway	BMP7	-0.465800813567726
+Hippo signaling pathway	WWC1	-0.472002409352522
+Hippo signaling pathway	FZD1	-0.484994284085476
+Hippo signaling pathway	TCF7	-0.543285634949891
+Hippo signaling pathway	WNT8A	-0.567873604238474
+Hippo signaling pathway	AJUBA	-0.600255920066067
+Hippo signaling pathway	WNT16	-0.61515822970839
+Hippo signaling pathway	WNT6	-0.685062995351278
+Hippo signaling pathway	WNT5A	-0.729389856125836
+Hippo signaling pathway	WNT7A	-1.00682400886131
+Hippo signaling pathway	WNT7B	-1.04555453788354
+Calcium signaling pathway	SLN	1.28110372757769
+Calcium signaling pathway	ATP2A3	0.797110354195649
+Calcium signaling pathway	CASQ2	0.76073688222684
+Calcium signaling pathway	CD38	0.69339713951722
+Calcium signaling pathway	TNNC2	0.690923867351824
+Calcium signaling pathway	HRC	0.600737081416052
+Calcium signaling pathway	TRDN	0.555094916081829
+Calcium signaling pathway	PLCG2	0.486352907068884
+Calcium signaling pathway	FGF7	0.43218362102381
+Calcium signaling pathway	TPCN2	0.431472504101003
+Calcium signaling pathway	EGF	0.417910435554492
+Calcium signaling pathway	P2RX4	0.404073079564127
+Calcium signaling pathway	CACNA1S	0.385994482026888
+Calcium signaling pathway	CASQ1	0.382183008877306
+Calcium signaling pathway	ATP2B4	0.354198312624094
+Calcium signaling pathway	RYR1	0.325751056933463
+Calcium signaling pathway	PRKCG	0.320322612282596
+Calcium signaling pathway	AGTR1A	0.315463602638171
+Calcium signaling pathway	GRIN2A	0.308570612002683
+Calcium signaling pathway	MCOLN2	0.303125508115654
+Calcium signaling pathway	SLC8A2	0.301379606496851
+Calcium signaling pathway	ADCY1	0.298562641631271
+Calcium signaling pathway	PTGFR	0.296684787645958
+Calcium signaling pathway	SLC8A1	0.294723854518578
+Calcium signaling pathway	CXCR4	0.292953222130898
+Calcium signaling pathway	MYLK2	0.274657609549934
+Calcium signaling pathway	CACNA1I	0.264060267159727
+Calcium signaling pathway	MCU	0.263527910351982
+Calcium signaling pathway	ORAI2	0.258897074602994
+Calcium signaling pathway	TNNC1	0.253163946459722
+Calcium signaling pathway	RET	0.245167397283503
+Calcium signaling pathway	ATP2B2	0.244984363952918
+Calcium signaling pathway	PHKA1	0.240640714830338
+Calcium signaling pathway	VEGFA	0.238550321842505
+Calcium signaling pathway	NFATC2	0.230277577582194
+Calcium signaling pathway	PLN	0.227455724618218
+Calcium signaling pathway	ATP2A2	0.225217845779879
+Calcium signaling pathway	NOS3	0.21817190392584
+Calcium signaling pathway	NTRK1	0.217127360454789
+Calcium signaling pathway	ADCY7	0.216756495637147
+Calcium signaling pathway	PHKG1	0.215626362812078
+Calcium signaling pathway	NOS1	0.208973469201807
+Calcium signaling pathway	ADCY4	0.208886028225871
+Calcium signaling pathway	CACNA1B	0.206251845120982
+Calcium signaling pathway	GRIN2D	0.204657053052296
+Calcium signaling pathway	SLC8A3	0.204469034466258
+Calcium signaling pathway	GRIN1	0.201985278948507
+Calcium signaling pathway	ATP2B3	0.201985265908757
+Calcium signaling pathway	CACNA1C	0.19833534714336
+Calcium signaling pathway	GNAL	0.196703562353228
+Calcium signaling pathway	CHRNA7	0.194119461826432
+Calcium signaling pathway	SLC25A31	0.194097175745373
+Calcium signaling pathway	RYR2	0.193464736305206
+Calcium signaling pathway	PTAFR	0.188760765516013
+Calcium signaling pathway	CACNA1H	0.187474200339129
+Calcium signaling pathway	CACNA1A	0.183335022305067
+Calcium signaling pathway	FGF18	0.182832027846856
+Calcium signaling pathway	GRM1	0.177059550473566
+Calcium signaling pathway	DRD5	0.174372846215036
+Calcium signaling pathway	ADCY9	0.168620577900666
+Calcium signaling pathway	PHKB	0.167316852360699
+Calcium signaling pathway	PRKCA	0.166504895305517
+Calcium signaling pathway	MST1R	0.164607288526175
+Calcium signaling pathway	VEGFD	0.164176833852742
+Calcium signaling pathway	SLC25A4	0.164018647116315
+Calcium signaling pathway	PPP3CB	0.162800596638361
+NOD-like receptor signaling pathway	GSDMD	-0.151166760430262
+NOD-like receptor signaling pathway	NEK7	-0.151220876627779
+NOD-like receptor signaling pathway	RELA	-0.152165855965334
+NOD-like receptor signaling pathway	IRF9	-0.15863789639541
+NOD-like receptor signaling pathway	TLR4	-0.160335346012075
+NOD-like receptor signaling pathway	ITPR3	-0.166060427735983
+NOD-like receptor signaling pathway	CCL12	-0.175146238814414
+NOD-like receptor signaling pathway	PRKCD	-0.178326021745371
+NOD-like receptor signaling pathway	PLCB4	-0.179788131128377
+NOD-like receptor signaling pathway	DEFB4	-0.193208656680299
+NOD-like receptor signaling pathway	MAPK3	-0.194191194959537
+NOD-like receptor signaling pathway	STAT1	-0.197330800458252
+NOD-like receptor signaling pathway	CARD9	-0.206874497969321
+NOD-like receptor signaling pathway	BCL2	-0.207587396746489
+NOD-like receptor signaling pathway	IL1B	-0.243024292407026
+NOD-like receptor signaling pathway	NFKBIA	-0.250722923747939
+NOD-like receptor signaling pathway	CTSB	-0.251714041421192
+NOD-like receptor signaling pathway	CASP8	-0.275020083400555
+NOD-like receptor signaling pathway	OAS3	-0.310777763434266
+NOD-like receptor signaling pathway	MAP3K7	-0.312779615226976
+NOD-like receptor signaling pathway	TRIP6	-0.322557911950206
+NOD-like receptor signaling pathway	IRGM	-0.325626351205895
+NOD-like receptor signaling pathway	BIRC3	-0.373363205936075
+NOD-like receptor signaling pathway	IRF7	-0.409485338716682
+NOD-like receptor signaling pathway	OAS1A	-0.487085768130093
+NOD-like receptor signaling pathway	ANTXR1	-0.519847160933266
+NOD-like receptor signaling pathway	TXN1	-0.59364333080747
+NOD-like receptor signaling pathway	CXCL3	-0.594644258894722
+NOD-like receptor signaling pathway	CXCL2	-0.687680043994241
+NOD-like receptor signaling pathway	GBP2	-0.762290789212621
+NOD-like receptor signaling pathway	CCL2	-0.887966000632616
+NOD-like receptor signaling pathway	IL18	-1.08894780127351
+NOD-like receptor signaling pathway	HSP90AA1	-1.19428282020295
+NOD-like receptor signaling pathway	CXCL1	-1.23379140546702
+NOD-like receptor signaling pathway	DEFB14	-1.33474050452456

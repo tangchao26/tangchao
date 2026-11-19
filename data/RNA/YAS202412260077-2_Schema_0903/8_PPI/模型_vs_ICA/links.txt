@@ -1,0 +1,2 @@
+node1	node2	score
+RT1-CE10	LOC100364500	906

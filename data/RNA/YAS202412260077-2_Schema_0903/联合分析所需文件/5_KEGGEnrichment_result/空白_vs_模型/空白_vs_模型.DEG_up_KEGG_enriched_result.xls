@@ -1,0 +1,16 @@
+ID	Description	Test	TestAll	Ref	RefAll	Pvalue	FDR	richFactor	Gene_id	KEGG_id	URL
+rno04141	Protein processing in endoplasmic reticulum 	1	1	160	7362	0.0217332246672102	0.0325998370008153	0.00625	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno04141+rno:299331
+rno04217	Necroptosis 	1	1	150	7362	0.0203748981255096	0.0325998370008153	0.00666666666666667	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno04217+rno:299331
+rno04612	Antigen processing and presentation 	1	1	76	7362	0.010323281716925	0.0325998370008153	0.0131578947368421	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno04612+rno:299331
+rno04621	NOD-like receptor signaling pathway 	1	1	157	7362	0.0213257267046999	0.0325998370008153	0.00636942675159236	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno04621+rno:299331
+rno04657	IL-17 signaling pathway 	1	1	85	7362	0.0115457756044555	0.0325998370008153	0.0117647058823529	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno04657+rno:299331
+rno04659	Th17 cell differentiation 	1	1	101	7362	0.0137190980711763	0.0325998370008153	0.0099009900990099	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno04659+rno:299331
+rno04914	Progesterone-mediated oocyte maturation 	1	1	88	7362	0.0119532735669656	0.0325998370008153	0.0113636363636364	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno04914+rno:299331
+rno04915	Estrogen signaling pathway 	1	1	132	7362	0.0179299103504483	0.0325998370008153	0.00757575757575758	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno04915+rno:299331
+rno05215	Prostate cancer 	1	1	96	7362	0.0130399348003262	0.0325998370008153	0.0104166666666667	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno05215+rno:299331
+rno05418	Fluid shear stress and atherosclerosis 	1	1	143	7362	0.0194240695463189	0.0325998370008153	0.00699300699300699	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno05418+rno:299331
+rno05207	Chemical carcinogenesis - receptor activation 	1	1	210	7362	0.0285248573757131	0.0356560717196414	0.00476190476190476	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno05207+rno:299331
+rno05417	Lipid and atherosclerosis 	1	1	195	7362	0.0264873675631623	0.0356560717196414	0.00512820512820513	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno05417+rno:299331
+rno05132	Salmonella infection 	1	1	246	7362	0.0334148329258355	0.0385555764528871	0.0040650406504065	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno05132+rno:299331
+rno04151	PI3K-Akt signaling pathway 	1	1	331	7362	0.0449606085302907	0.0481720805681686	0.00302114803625378	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno04151+rno:299331
+rno05200	Pathways in cancer 	1	1	513	7362	0.0696821515892423	0.0696821515892423	0.00194931773879142	ENSRNOG00000059714(Hsp90aa1)	rno:299331	http://www.kegg.jp/kegg-bin/show_pathway?rno05200+rno:299331

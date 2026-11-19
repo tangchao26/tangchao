@@ -1,0 +1,52 @@
+pathway	type
+Arginine Biosynthesis	1Amino acid metabolism relevant signatures
+Beta-Alanine Metabolism	1Amino acid metabolism relevant signatures
+Glycine, Serine and Threonine Metabolism	1Amino acid metabolism relevant signatures
+Histidine Metabolism	1Amino acid metabolism relevant signatures
+Kynurenine Metabolism	1Amino acid metabolism relevant signatures
+Phenylalanine Metabolism	1Amino acid metabolism relevant signatures
+Phenylalanine, Tyrosine and Tryptophan Biosynthesis	1Amino acid metabolism relevant signatures
+Primary Bile Acid Biosynthesis	1Amino acid metabolism relevant signatures
+Tryptophan Metabolism	1Amino acid metabolism relevant signatures
+Tyrosine Metabolism	1Amino acid metabolism relevant signatures
+Urea Cycle	1Amino acid metabolism relevant signatures
+Valine, Leucine and Isoleucine Biosynthesis	1Amino acid metabolism relevant signatures
+Valine, Leucine and Isoleucine Degradation	1Amino acid metabolism relevant signatures
+Aldosterone Biosynthesis	2lipid metabolism relevant signatures
+Butanoate Metabolism	2lipid metabolism relevant signatures
+Cortisol Biosynthesis	2lipid metabolism relevant signatures
+Estradiol Biosynthesis	2lipid metabolism relevant signatures
+Fatty Acid Degradation	2lipid metabolism relevant signatures
+Linoleic Acid Metabolism	2lipid metabolism relevant signatures
+Retinol Metabolism	2lipid metabolism relevant signatures
+Steroid Hormone Biosynthesis	2lipid metabolism relevant signatures
+Steroid Hormone Metabolism	2lipid metabolism relevant signatures
+Caffeine Metabolism	3Drug metabolism relevant signatures
+Drug Metabolism by Cytochrome P450	3Drug metabolism relevant signatures
+Drug Metabolism by other enzymes	3Drug metabolism relevant signatures
+Metabolism of Xenobiotics by Cytochrome P450	3Drug metabolism relevant signatures
+Ascorbate and Aldrate Metabolism	4Other metabolism signatures
+Biotin Metabolism	4Other metabolism signatures
+Dopamine Biosynthesis	4Other metabolism signatures
+Epinephrine Biosynthesis	4Other metabolism signatures
+Glyoxylate and Dicarboxylate Metabolism	4Other metabolism signatures
+Norepinephrine Biosynthesis	4Other metabolism signatures
+Pentose and Glucuronate Interconversions	4Other metabolism signatures
+Propanoate Metabolism	4Other metabolism signatures
+Retinoic Acid Metabolism	4Other metabolism signatures
+Starch and Suctose Metabolism	4Other metabolism signatures
+Testosterone Biosynthesis	4Other metabolism signatures
+Transsulfuration	4Other metabolism signatures
+Vitamin K	4Other metabolism signatures
+Cardiolipin Biosynthesis	5C3 specific metabolism signatures
+Cholesterol Biosynthesis	5C3 specific metabolism signatures
+Pyrimidine Biosynthesis	5C3 specific metabolism signatures
+Lipoic Acid Metabolism	5C3 specific metabolism signatures
+PP	6liver metabolism relavant signature
+PV	6liver metabolism relavant signature
+EMT	7Stromal relavant signature
+ECM	7Stromal relavant signature
+Stem	8Other progress relevant signature
+Wnt	8Other progress relevant signature
+Differentiation	8Other progress relevant signature
+Angiogenesis	8Other progress relevant signature
